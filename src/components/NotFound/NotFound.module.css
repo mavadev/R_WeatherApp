@@ -1,0 +1,13 @@
+.error {
+	flex: 2;
+	text-align: center;
+}
+.title {
+	font-size: 3rem;
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+.text {
+	font-size: 2rem;
+	text-wrap: balance;
+}
